@@ -1,0 +1,16 @@
+{ 
+
+
+"[javascript]": { "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "explicit"
+    }, },
+
+"[javascriptreact]": { "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "explicit"
+    },
+},
+"merge-conflict.autoNavigateNextConflict.enabled": false,
+"remote.WSL.useShellEnvironment": false
+
+
+}
